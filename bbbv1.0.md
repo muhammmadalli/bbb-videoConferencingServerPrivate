@@ -1,6 +1,9 @@
 Go to https://sourceforge.net/projects/bigbluebutton-vm/files/
+
 Download any version you like, beta - if you can handle it. I chose BigBlueButton 1.0.zip.
+
 Direct download link for v1.0: https://sourceforge.net/projects/bigbluebutton-vm/files/BigBlueButton%201.0.zip/download
+
 The zip package conatins pre-installed BigBlueButton vmware image.
 
 username: bigbluebutton
